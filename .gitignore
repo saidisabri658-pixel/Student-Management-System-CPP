@@ -1,0 +1,10 @@
+# Kompilierte Dateien
+*.exe
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# Temporäre Dateien
+*.tmp
